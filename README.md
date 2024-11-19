@@ -2,9 +2,10 @@
 Computación Aplicada - Grupo 2
 
 # Integrantes
-Matias Basilico
-Luciano Yomayel
-
+- Matias Basilico
+- Luciano Yomayel
+- Samuel Arias Mollegas
+  
 ![Topologia de red](topologia.png)
 
 ## Descomprimir directorio var
