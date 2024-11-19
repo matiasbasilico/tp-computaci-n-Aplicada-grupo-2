@@ -5,6 +5,8 @@ Computación Aplicada - Grupo 2
 Matias Basilico
 Luciano Yomayel
 
+![Topologia de red](topologia.png)
+
 ## Descomprimir directorio var
 
 Dado que Github admite maximo 100 Mb, utilizando split partimos el archivo en distintas partes de 25mb para poder restaurarlos es
